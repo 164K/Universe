@@ -29,4 +29,4 @@ Platform: Windows 10与Windows 11均可（x64）
 Unity Version: 2022.3.1f1 LTS
 
 ## 引用说明
-BGM: [Mirror - SVYAT ILIN](https://music.163.com/#/song?id=1449668208)https://music.163.com/#/song?id=1449668208
+BGM: [Mirror - SVYAT ILIN](https://music.163.com/#/song?id=1449668208)
