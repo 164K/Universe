@@ -33,14 +33,7 @@ public class EventMessage : MonoBehaviour
     void SetFocusObj()
     {
         RaycastHit2D hit = Physics2D.Raycast(currentCursorWorldPosition, Vector2.zero);
-        if (hit.rigidbody != null)
-        {
-            focusObj = hit.rigidbody.gameObject;
-        }
-        else
-        {
-            focusObj = null;
-        }
+        focusObj = hit.rigidbody?.gameObject;
     
     }
 
