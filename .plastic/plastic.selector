@@ -1,0 +1,4 @@
+repository "Universe@circle-moibie@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
