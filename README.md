@@ -23,3 +23,10 @@ https://github.com/164K/Universe/assets/60461801/97f5af7a-f840-40e1-b6a2-99f11c3
 **Delete All**: 删除所有已经存在的星球。
 
 **暂停**: 按下暂停 &#x23f8; 按钮会暂停所有星球的运动，但会保存其初始状态；暂停时按下开始&#x23F5;按钮恢复。暂停时可以放置星球并暂时存储初速度，恢复时释放速度。
+
+## 开发环境
+Platform: Windows 10与Windows 11均可（x64）
+Unity Version: 2022.3.1f1 LTS
+
+## 引用说明
+BGM: [Mirror - SVYAT ILIN](https://music.163.com/#/song?id=1449668208)
